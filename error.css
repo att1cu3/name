@@ -1,0 +1,23 @@
+p{
+    text-align:center;
+    font-size: 50px;
+    color:white;
+}
+
+h1{
+    font-size:60px;
+    color:red;
+    font-family: "sans";
+    text-align: center;
+}
+
+html{
+    background-color: #264028;
+}
+
+p1{
+    text-align: left
+}
+#picture{
+    text-align: center;
+}
