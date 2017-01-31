@@ -2,10 +2,12 @@
 
 var NUM_CIRCLES = 12;
 var circleDiameter;
+var circleRadius;
 
 function setup() {
     createCanvas(480, 600);
     circleDiameter = width/NUM_CIRCLES;
+    circleRadius = circleDiameter/2;
 }
 
 function draw() {
